@@ -5,3 +5,8 @@
 tags
 .DS_Store
 .gdb_history
+/bin-int
+/bin
+BX.vcxproj
+BX.vcxproj.filters
+BX.vcxproj.user
